@@ -2,7 +2,7 @@
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
 	xmlns:android   = "http://schemas.android.com/apk/res/android"
-        id          = "edu.iupui.n300.HelloWorld"
+        id          = "org.mitre.www.HelloWorld"
         version     = "1.0.0" >
 
     <name>Hello World</name>
@@ -11,8 +11,8 @@
         A hellow world example app.
     </description>
 
-    <author href="https://github.com/ProfessorKevinForbes/Hello World" email="professorkevinforbes@gmail.com">
-        Kevin Forbes
+    <author href="https://github.com/JoeStagner/HelloWorld" email="joestagner@gmail.com">
+        Joe Stagner
     </author>
 
 	<icon src="icon.png" />
